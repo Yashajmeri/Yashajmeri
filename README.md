@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Yash 👋
 
-<!--
-**Yashajmeri/Yashajmeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's in Applied Computer Science at Concordia University, Montréal. 
+Backend engineer focused on distributed systems and LLM applications.
 
-Here are some ideas to get you started:
+**Currently building:** TradeStream — a Spring Boot trading platform with 
+real-time market data and modular service architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recently shipped:** A Corrective RAG pipeline using LangGraph, FAISS, 
+and a local sentence-transformer for zero-cost embeddings.
+
+**Previously:** Software Developer at BrainyBeam Technologies (Feb 2023 – May 2024) — 
+built JWT auth, REST APIs, and AWS-deployed backend services in Java/Spring Boot.
+
+### Tech I work with
+**Backend:** Java, Spring Boot, Hibernate, PostgreSQL, Redis  
+**AI/ML:** Python, LangGraph, LangChain, FAISS, Sentence-Transformers  
+**Tooling:** Docker, AWS, Git, JUnit, Postman
+
+📫 ajmeriyash1312@gmail.com · [LinkedIn](https://linkedin.com/in/YashAjmeri)
